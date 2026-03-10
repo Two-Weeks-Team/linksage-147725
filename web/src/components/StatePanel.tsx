@@ -1,4 +1,5 @@
 "use client";
+
 interface StatePanelProps {
   status: 'loading' | 'error' | '';
   message?: string;
